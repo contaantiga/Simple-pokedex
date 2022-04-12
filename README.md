@@ -1,2 +1,4 @@
-># Pokédex   <img align="right" alt="Jucs-pic" height="150" src="https://bestanimations.com/media/dragons/1977101522dragon-animated-gif-73.gif#.YjD_16NF9Q0.link" width="200" height="200">
+># Pokédex  <img align="right" alt="Jucs-pic" height="100" src="https://user-images.githubusercontent.com/101658522/163025631-6d340ad3-9d52-435a-9f40-45b1a43b2657.gif" width="100" height="100">
+
+
 
