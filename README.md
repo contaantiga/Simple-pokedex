@@ -6,7 +6,9 @@
 
 > Status: Ready 🟢
 
-># Technologies used:
+### The concept is to show how simple languages used correctly, can be beautiful to see and use.
+
+>## Technologies used:
 
 <table>
  
