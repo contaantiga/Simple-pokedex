@@ -25,5 +25,5 @@
   
 </table>
 
-### Play now and take the test! https://flynof.github.io/Simple-pokedex/       ![cute-pokemon-mew](https://user-images.githubusercontent.com/101658522/163440470-7903912f-74f0-4435-8103-58d89d32376b.gif)      
+<a href="https://flynof.github.io/Simple-pokedex/"><buttom>Play test</buttom></a>       ![cute-pokemon-mew](https://user-images.githubusercontent.com/101658522/163440470-7903912f-74f0-4435-8103-58d89d32376b.gif)      
 
