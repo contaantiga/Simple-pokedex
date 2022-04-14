@@ -27,4 +27,3 @@
 
 ### Feel free to take the test yourself! <a href="https://flynof.github.io/Simple-pokedex/" target="_blank" rel="external">Start test</a>       ![cute-pokemon-mew](https://user-images.githubusercontent.com/101658522/163440470-7903912f-74f0-4435-8103-58d89d32376b.gif)  
 
-<p> If you are interested in more detailed information about the process of creating this project, take a look at it on my <a href="https://www.linkedin.com/in/matheus-ferreira-167baa230/" target="_blank" rel="external">linkedin!</a></p>
